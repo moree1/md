@@ -43,12 +43,14 @@ h2 {
 h3 {
     font-family: Futura, "Trebuchet MS", Arial, sans-serif;
     font-size: 20px;
+    padding-top:40px;
 }
 
 h4 {
     font-family: Futura, "Trebuchet MS", Arial, sans-serif;
     font-weight:bolder;
     font-size: 18px;
+    padding-top: 25px;
     
 }
 
